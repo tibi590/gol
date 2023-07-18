@@ -1,0 +1,12 @@
+/home/tibi/Projects/rust/gol/target/debug/deps/libthiserror_impl-814a153afd22944f.so: /home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/lib.rs /home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/ast.rs /home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/attr.rs /home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/expand.rs /home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/fmt.rs /home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/generics.rs /home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/prop.rs /home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/valid.rs
+
+/home/tibi/Projects/rust/gol/target/debug/deps/thiserror_impl-814a153afd22944f.d: /home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/lib.rs /home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/ast.rs /home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/attr.rs /home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/expand.rs /home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/fmt.rs /home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/generics.rs /home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/prop.rs /home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/valid.rs
+
+/home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/lib.rs:
+/home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/ast.rs:
+/home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/attr.rs:
+/home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/expand.rs:
+/home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/fmt.rs:
+/home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/generics.rs:
+/home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/prop.rs:
+/home/tibi/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/valid.rs:
