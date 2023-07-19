@@ -68,9 +68,7 @@ impl Grid {
                 }
             }
         }
-        println!("before: {}", self);
         self.grid = Some(updated_grid);
-        println!("after: {}", self);
     }      
 }
 
