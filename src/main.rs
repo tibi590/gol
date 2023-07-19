@@ -57,6 +57,7 @@ fn main() {
 
 fn refresh_screen(grid: &GridSystem) {
     let mut tmp_str = String::new();
+    std::process::Command::new("clear").status().unwrap();
 
     for row in 0..grid.max_row {
         for col in 0..grid.max_col {
@@ -65,8 +66,6 @@ fn refresh_screen(grid: &GridSystem) {
         tmp_str.push_str("\n");
     }
 
-    //clearscreen::clear().expect("failed to clear screen");
-    print!("{}[2J", 27 as char);
     println!("{}", tmp_str);
 }
 
