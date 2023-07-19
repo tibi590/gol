@@ -65,7 +65,8 @@ fn refresh_screen(grid: &GridSystem) {
         tmp_str.push_str("\n");
     }
 
-    clearscreen::clear().expect("failed to clear screen");
+    //clearscreen::clear().expect("failed to clear screen");
+    print!("{}[2J", 27 as char);
     println!("{}", tmp_str);
 }
 
