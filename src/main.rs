@@ -30,7 +30,6 @@ fn main() {
     grid.grid[10][26] = chr;
     grid.grid[10][27] = chr;
     **/
-    /*
     grid.grid[9][55] = chr;
     grid.grid[11][55] = chr;
     grid.grid[12][54] = chr;
@@ -42,8 +41,7 @@ fn main() {
     grid.grid[10][50] = chr;
     grid.grid[9][51] = chr;
     grid.grid[8][53] = chr;
-    **/
-    grid.randomize_grid();
+    //grid.randomize_grid();
 
     refresh_screen(&grid);
     thread::sleep(Duration::from_secs(1));
